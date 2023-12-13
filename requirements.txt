@@ -1,0 +1,2 @@
+pip install Flask google-cloud-language
+pip install google-cloud-language

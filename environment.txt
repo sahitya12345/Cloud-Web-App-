@@ -1,0 +1,4 @@
+mkdir sentiment_analysis_app
+cd sentiment_analysis_app
+python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
